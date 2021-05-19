@@ -1,0 +1,13 @@
+header, footer{
+    background-color: antiquewhite;
+    color: rgb(11, 66, 66);
+    padding: 20px;
+    text-align: center;
+}
+aside{
+    padding-top: 20px;
+    font-weight: bold;
+}
+.title{
+    color:darkblue;
+}
